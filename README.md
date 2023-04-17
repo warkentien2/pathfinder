@@ -14,5 +14,7 @@ A minesweeper-inspired gamified breadth-first search visualizer
 
 ## Running
 
+use Node v16
+
 `$ yarn`
 `$ yarn dev`
